@@ -1,7 +1,8 @@
 ### Purpose
 
-A simple brush bundle that I use.
+A Simple brush set for new users.
 
 ### Features
 
 * Brush Presets
+* Brush Tip
