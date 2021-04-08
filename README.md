@@ -1,8 +1,6 @@
 ### Purpose
-
-A Simple brush set for new users.
+A pencil case for basic needs.
 
 ### Features
-
+* Brush Tips
 * Brush Presets
-* Brush Tip
