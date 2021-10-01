@@ -3,4 +3,5 @@ A pencil case for basic needs.
 
 ### Features
 * Brush Tips
-* Brush Presets
+* Gradients
+* Paint Presets
