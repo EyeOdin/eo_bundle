@@ -1,4 +1,4 @@
-![Picture](https://raw.githubusercontent.com/EyeOdin/Tela/main/tela/PREVIEWS/tela_01.png)
+![Picture](https://github.com/EyeOdin/eo_bundle/blob/main/eo_bundle_logo.png)
 
 ### Purpose
 A pencil case for basic needs.
